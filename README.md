@@ -3,7 +3,7 @@
 ---
 ## Hello World, my name is Nate T., and I heart software development!
 
-I do not have anything inportant to share here. I just found out that I could add profile README to github, and since this is my 'mess around' profile, it just seems fitting.
+I do not have anything important to share here. I just found out that I could add profile README to github, and since this is my 'mess around' profile, it just seems fitting.
 
 ---
  ## Welcome to my Experiments Plus repo...
